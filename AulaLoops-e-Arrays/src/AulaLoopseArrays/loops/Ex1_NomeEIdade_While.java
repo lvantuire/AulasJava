@@ -3,7 +3,7 @@ package AulaLoopseArrays.loops;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Ex1_NomeEIdade {
+public class Ex1_NomeEIdade_While {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
